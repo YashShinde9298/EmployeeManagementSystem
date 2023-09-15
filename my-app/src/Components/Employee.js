@@ -1,0 +1,163 @@
+const employeeData = [{
+    id: 1,
+    first_name: "Siward",
+    last_name: "Thoms",
+    email: "sthoms0@tiny.cc",
+    gender: "Male",
+    mobile_no: "860-769-1777",
+    salary: 46587
+}, {
+    id: 2,
+    first_name: "Layney",
+    last_name: "Antoniewicz",
+    email: "lantoniewicz1@oakley.com",
+    gender: "Female",
+    mobile_no: "275-869-6727",
+    salary: 47770
+}, {
+    id: 3,
+    first_name: "Lamar",
+    last_name: "De Domenico",
+    email: "ldedomenico2@irs.gov",
+    gender: "Male",
+    mobile_no: "539-981-3625",
+    salary: 26371
+}, {
+    id: 4,
+    first_name: "Toni",
+    last_name: "D'Onise",
+    email: "tdonise3@redcross.org",
+    gender: "Polygender",
+    mobile_no: "703-186-3712",
+    salary: 25540
+}, {
+    id: 5,
+    first_name: "Wood",
+    last_name: "Abrahmovici",
+    email: "wabrahmovici4@fastcompany.com",
+    gender: "Male",
+    mobile_no: "158-709-9423",
+    salary: 33964
+}, {
+    id: 6,
+    first_name: "Alfred",
+    last_name: "Leppo",
+    email: "aleppo5@drupal.org",
+    gender: "Male",
+    mobile_no: "362-653-7979",
+    salary: 21399
+}, {
+    id: 7,
+    first_name: "Petra",
+    last_name: "Nodin",
+    email: "pnodin6@loc.gov",
+    gender: "Female",
+    mobile_no: "278-706-5727",
+    salary: 39362
+}, {
+    id: 8,
+    first_name: "Town",
+    last_name: "Vany",
+    email: "tvany7@exblog.jp",
+    gender: "Male",
+    mobile_no: "815-495-0212",
+    salary: 20700
+}, {
+    id: 9,
+    first_name: "Marlee",
+    last_name: "Harrhy",
+    email: "mharrhy8@mtv.com",
+    gender: "Female",
+    mobile_no: "542-364-5046",
+    salary: 46352
+}, {
+    id: 10,
+    first_name: "Xylia",
+    last_name: "Minchinden",
+    email: "xminchinden9@unc.edu",
+    gender: "Female",
+    mobile_no: "667-922-9006",
+    salary: 36783
+}, {
+    id: 11,
+    first_name: "Lillian",
+    last_name: "Arden",
+    email: "lardena@phpbb.com",
+    gender: "Female",
+    mobile_no: "836-275-2430",
+    salary: 28881
+}, {
+    id: 12,
+    first_name: "Luise",
+    last_name: "Rydzynski",
+    email: "lrydzynskib@usa.gov",
+    gender: "Female",
+    mobile_no: "498-469-9201",
+    salary: 44835
+}, {
+    id: 13,
+    first_name: "Hubie",
+    last_name: "Tomson",
+    email: "htomsonc@mac.com",
+    gender: "Non-binary",
+    mobile_no: "282-482-2519",
+    salary: 46426
+}, {
+    id: 14,
+    first_name: "Lammond",
+    last_name: "Deluze",
+    email: "ldeluzed@ask.com",
+    gender: "Male",
+    mobile_no: "407-531-8818",
+    salary: 29329
+}, {
+    id: 15,
+    first_name: "Lianne",
+    last_name: "Mulchrone",
+    email: "lmulchronee@edublogs.org",
+    gender: "Female",
+    mobile_no: "855-297-4737",
+    salary: 39580
+}, {
+    id: 16,
+    first_name: "Tate",
+    last_name: "Bridywater",
+    email: "tbridywaterf@nymag.com",
+    gender: "Female",
+    mobile_no: "437-398-2445",
+    salary: 42957
+}, {
+    id: 17,
+    first_name: "Claudia",
+    last_name: "Rolfini",
+    email: "crolfinig@livejournal.com",
+    gender: "Female",
+    mobile_no: "304-148-8394",
+    salary: 35727
+}, {
+    id: 18,
+    first_name: "Sheffy",
+    last_name: "Studd",
+    email: "sstuddh@phpbb.com",
+    gender: "Male",
+    mobile_no: "737-399-7834",
+    salary: 44806
+}, {
+    id: 19,
+    first_name: "Tressa",
+    last_name: "Gisby",
+    email: "tgisbyi@networksolutions.com",
+    gender: "Female",
+    mobile_no: "370-462-0314",
+    salary: 43620
+}, {
+    id: 20,
+    first_name: "Bari",
+    last_name: "Shenton",
+    email: "bshentonj@istockphoto.com",
+    gender: "Female",
+    mobile_no: "628-615-7970",
+    salary: 43692
+}]
+
+export default employeeData;
